@@ -1,4 +1,4 @@
-#First Web App - Cessna Aircraft Classifier
+# First Web App - Cessna Aircraft Classifier
 
 I was able to develop and deploy my first Deep learning web app.  The app classifies whether an uploaded picture is a Cessna 172 or a Cessna 182.
 
@@ -6,23 +6,23 @@ I was able to develop and deploy my first Deep learning web app.  The app classi
 
 Working through the Deep Learning course
 
-##Executive Summary
+## Executive Summary
 - Download pictures from Bing Images
 - Train the model
 - Publish using Voila and Binder
 
-##Blow-by-blow
-###Download pictures
+## Blow-by-blow
+### Download pictures
 <add some information on the steps>
 
-###Train the model
+### Train the model
 <add some info on the steps>
 
-###Publish steps
+### Publish steps
 <add some info on the steps>
 Voila, make sure I mention flipping to url from file - maybe a picture
 
 
-##Lessons Learned
+## Lessons Learned
 - Cool!
 - Didn't focus on trying to make the most accurate model, worked on deploying
